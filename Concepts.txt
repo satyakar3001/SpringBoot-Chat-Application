@@ -1,0 +1,3 @@
+1. WebSocket: Provides a two way communication channel between client and the server
+2. STOMP: Works on top of WebSocket to provide structures to the messages (organization, routing, etc.)
+3. Message Broker: 
